@@ -1,0 +1,6 @@
+[bastion]
+nso_bastion ansible_host=89.46.86.160 ansible_user=ubuntu
+[bastion]
+_bastion ansible_host=89.46.86.160 ansible_user=ubuntu
+[bastion]
+_bastion ansible_host=89.46.86.160 ansible_user=ubuntu
